@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: psych-rest-api-PSYCH-GROUP
+Version: 0.0.0
+Summary: REST API for Psych Project
+Home-page: https://github.com/Psych-game/REST-API
+Author: PSYCH Developer
+License: GNU General Public License v3 (GPLv3)
+Project-URL: Bug Tracker, https://github.com/Psych-game/REST-API/issues
+Description: # Example Package
+        
+        This is a simple example package. You can use [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/) to write your content
+Platform: UNKNOWN
+Classifier: Development Status :: 0 - Initial
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Communications :: Email
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Software Development :: Bug Tracking
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

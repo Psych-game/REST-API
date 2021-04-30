@@ -1,0 +1,9 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "flask",
+    "Flask-SQLAlchemy",
+    "email_validator"
+]
+build-backend = "setuptools.build_meta"
